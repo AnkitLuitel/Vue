@@ -3,6 +3,7 @@
   const showModal = ref (false);
   const newNotes = ref("");
   const notes = ref([]);
+  //dsfjds
   const getRandomColor=()=> {
   return "hsl(" + Math.random() * 360 + ", 100%, 75%)";
 }
